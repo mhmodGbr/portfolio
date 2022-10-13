@@ -1,0 +1,19 @@
+.Questions {
+    margin: 30px 0;
+    width: 100%;
+    overflow: hidden;
+    padding: 0 30px;
+}
+
+.Questions-title h3 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.card-title {
+    color: #101113e8;
+    text-align: center;
+    font-weight: 700 !important;
+}

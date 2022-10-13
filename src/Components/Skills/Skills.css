@@ -1,0 +1,29 @@
+.numbers {
+    background: #101113e8;
+    height: auto;
+    max-width: 100%;
+    text-align: center;
+    overflow: hidden;
+    color: aliceblue;
+   
+    
+}
+
+.Title {
+    text-align: center;
+    color: aliceblue;
+    font-size: 70px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.html {
+    
+    padding: 30px;
+
+}

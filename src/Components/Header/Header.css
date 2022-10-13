@@ -1,0 +1,66 @@
+header {
+    background-image: url(../../../public/images/about-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    max-width: 100%;
+    text-align: center;
+    overflow: hidden;
+    padding: 25px 0;
+    padding-top: 60px;
+}
+header .row {
+    margin: 50px 0;
+}
+
+
+header h3 {
+    color:#101113e8 ;
+    font-size: 55px;
+    line-height: 50px;
+    width: 80%;
+    margin: 15px 0;
+    font-weight: 700;
+}
+
+header p {
+    margin: 15px 0;
+    font-weight: 400;
+}
+
+.Order {
+    color:aliceblue;
+    width: 140px;
+    height: 40px;
+    background:#101113e8 ;
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+    box-sizing: border-box;
+    transition: .4s ease;
+    margin: 20px 10px 10px 0;
+}
+
+.Order:hover {
+    color: #101113e8;
+    border: 3px solid #101113e8;
+    background: aliceblue;
+}
+
+.Learn {
+    color:#222;
+    width: 140px;
+    height: 40px;
+    background:none ;
+    border: none;
+    box-shadow: #222;
+    font-weight: 600;
+    box-sizing: border-box;
+    transition: .4s ease;
+}
+
+.Learn:hover {
+    color: #101113e8;
+    border: 3px solid #101113e8;
+}

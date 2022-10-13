@@ -1,0 +1,39 @@
+.sliderx {
+    background-color: #101113e8;
+    border: 1px solid #101113e8;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+.comments h1 {
+    font-size: 60px;
+    color: aliceblue;
+    margin-bottom: 20px;
+    
+}
+
+.sliderx img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin-bottom: 150px;
+}
+
+.sliderx .carousel-caption {
+    margin: 40px 0 ;
+}
+
+.comment-container .carousel {
+    background:#8da1ab;
+    margin: 50px;
+    border-radius: 30px;
+    box-sizing: border-box ;
+}
+
+.carousel-caption h3 , p {
+    color:#101113e8;
+}

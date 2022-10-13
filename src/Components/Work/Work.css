@@ -1,0 +1,69 @@
+.Work-container {
+    margin-top: 40px;
+}
+
+.Work-title h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+.Portfolio-card {
+    height: 40em;
+    width: 20em;
+    background-color: #101113e8;
+    border: 1px solid aliceblue;
+    color: #8da1ab;
+    border-radius: 15px;
+    margin: 20px;
+    overflow: hidden;
+    padding: 10px;
+    transition: .7s ease;
+    text-align: center;
+}
+
+.portfolio-info img {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.market-card {
+    height: 45em;
+    width: 20em;
+    background-color: #101113e8;
+    border: 1px solid aliceblue;
+    color: #8da1ab;
+    border-radius: 15px;
+    margin: 20px;
+    overflow: hidden;
+    padding: 10px;
+    transition: .7s ease;
+    text-align: center;
+    
+}
+
+.market-info img {
+    width: 100%;
+    padding-bottom: 20px;
+    
+}
+
+.engineer-card {
+    min-height: 14em;
+    width: 20em;
+    background-color: #101113e8;
+    border: 1px solid aliceblue;
+    color: #8da1ab;
+    border-radius: 15px;
+    margin: 20px;
+    overflow: hidden;
+    padding: 10px;
+    transition: .7s ease;
+    text-align: center;
+    
+}
+
+
+.engineer-card img {
+    width: 100%;
+    padding-bottom: 20px;
+}
