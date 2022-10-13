@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6ce858ee.css",
+    "main.js": "/portfolio/static/js/main.731cdd5f.js",
+    "static/js/787.aab8bd84.chunk.js": "/portfolio/static/js/787.aab8bd84.chunk.js",
+    "static/media/about-bg.jpg": "/portfolio/static/media/about-bg.973f25157e118ea212ef.jpg",
+    "static/media/website.jpg": "/portfolio/static/media/website.4ad2bb08010d803ebf8f.jpg",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.c647ac85c57e9005264e.png",
+    "static/media/1.jpg": "/portfolio/static/media/1.960ff282036e3c4e63eb.jpg",
+    "static/media/skeleton.png": "/portfolio/static/media/skeleton.f301b0904e642cc417f7.png",
+    "static/media/2.jpg": "/portfolio/static/media/2.f6e01ff2a6ae714f244b.jpg",
+    "static/media/portfolio-img1.jpg": "/portfolio/static/media/portfolio-img1.dc86c313812cb55340e6.jpg",
+    "static/media/portfolio-img4.jpg": "/portfolio/static/media/portfolio-img4.30d4aecba43471b829c4.jpg",
+    "static/media/engineer.jpg": "/portfolio/static/media/engineer.7dc6f2071b316d3fa954.jpg",
+    "static/media/portfolio-img3.jpg": "/portfolio/static/media/portfolio-img3.211e5f4d2b212ed0cb12.jpg",
+    "static/media/portfolio-img5.jpg": "/portfolio/static/media/portfolio-img5.5e40dd6f58ef31b9b608.jpg",
+    "static/media/portfolio-img2.jpg": "/portfolio/static/media/portfolio-img2.38deb22002605d9eddeb.jpg",
+    "static/media/portfolio-img6.jpg": "/portfolio/static/media/portfolio-img6.8c4e1bfa4a25d162e400.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.6ce858ee.css.map": "/portfolio/static/css/main.6ce858ee.css.map",
+    "main.731cdd5f.js.map": "/portfolio/static/js/main.731cdd5f.js.map",
+    "787.aab8bd84.chunk.js.map": "/portfolio/static/js/787.aab8bd84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce858ee.css",
+    "static/js/main.731cdd5f.js"
+  ]
+}
